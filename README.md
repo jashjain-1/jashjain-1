@@ -36,15 +36,14 @@ My interests include embedded development, computer vision, systems programming,
 
 ## GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jashjain-1&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jashjain-1&show_icons=true&theme=default&include_all_commits=true&count_private=true">
-</picture>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jashjain-1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jashjain-1&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jashjain-1&layout=compact&langs_count=8&theme=dark">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashjain-1&layout=compact&langs_count=8&theme=default">
-</picture>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=jashjain-1&theme=github-dark-blue&hide_border=true" />
+</div>
 
 ## Development Philosophy
 
