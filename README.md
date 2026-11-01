@@ -36,9 +36,15 @@ My interests include embedded development, computer vision, systems programming,
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jashjain-1&show_icons=true&theme=default&include_all_commits=true&count_private=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jashjain-1&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jashjain-1&show_icons=true&theme=default&include_all_commits=true&count_private=true">
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jashjain-1&layout=compact&langs_count=8&theme=default)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jashjain-1&layout=compact&langs_count=8&theme=dark">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashjain-1&layout=compact&langs_count=8&theme=default">
+</picture>
 
 ## Development Philosophy
 
