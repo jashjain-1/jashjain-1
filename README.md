@@ -4,14 +4,14 @@
 
 I'm passionate about building real-world solutions at the intersection of hardware and software - from ESP32-based automotive HUDs to intelligent video analytics platforms powered by computer vision and AI.
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Currently working on **[CYD-Build](https://github.com/jashjain-1/CYD-Build)** - ESP32 CYD automotive HUD with Android companion app
-- 🌱 Exploring embedded systems, real-time OS, computer vision, and edge AI
-- 💡 Interested in IoT, automotive tech, and intelligent surveillance systems
-- 🎯 Focused on writing clean, efficient, and production-ready code
+- Currently working on [CYD-Build](https://github.com/jashjain-1/CYD-Build) - ESP32 CYD automotive HUD with Android companion app
+- Exploring embedded systems, real-time OS, computer vision, and edge AI
+- Interested in IoT, automotive tech, and intelligent surveillance systems
+- Focused on writing clean, efficient, and production-ready code
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,30 +35,24 @@ I'm passionate about building real-world solutions at the intersection of hardwa
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🔥 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [**CYD-Build**](https://github.com/jashjain-1/CYD-Build) | ESP32 Cheap Yellow Display automotive HUD with Android companion app for real-time navigation, media control, and vehicle telemetry | `ESP32` `C++` `Kotlin` `LVGL` `BLE` |
-| [**IBVAP**](https://github.com/jashjain-1/ibvap) | Intelligent Border Video Analytics Platform with YOLO26, ANPR, emotion detection, virtual fencing, and threat detection | `Python` `PySide6` `YOLO` `OpenCV` `CUDA` |
-| [**TLB Hit/Miss Analyser**](https://github.com/jashjain-1/tlb-hit-miss-analyser) | Interactive OS learning simulator for TLB performance analysis and visualization | `JavaScript` `HTML/CSS` |
-| [**Hive**](https://github.com/jashjain-1/Hive) | Collaborative platform for connecting and sharing knowledge | - |
-| [**TripPlanner**](https://github.com/jashjain-1/TripPlanner) | Intelligent travel planning and itinerary management system | - |
+| [CYD-Build](https://github.com/jashjain-1/CYD-Build) | ESP32 Cheap Yellow Display automotive HUD with Android companion app for real-time navigation, media control, and vehicle telemetry | `ESP32` `C++` `Kotlin` `LVGL` `BLE` |
+| [IBVAP](https://github.com/jashjain-1/ibvap) | Intelligent Border Video Analytics Platform with YOLO26, ANPR, emotion detection, virtual fencing, and threat detection | `Python` `PySide6` `YOLO` `OpenCV` `CUDA` |
+| [TLB Hit/Miss Analyser](https://github.com/jashjain-1/tlb-hit-miss-analyser) | Interactive OS learning simulator for TLB performance analysis and visualization | `JavaScript` `HTML/CSS` |
+| [Hive](https://github.com/jashjain-1/Hive) | Collaborative platform for connecting and sharing knowledge | - |
+| [TripPlanner](https://github.com/jashjain-1/TripPlanner) | Intelligent travel planning and itinerary management system | - |
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jashjain-1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashjain-1&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-## 🤝 Connect With Me
+## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jashjain-1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jashjain1)
-
----
-
-<div align="center">
-  <i>Building the future, one commit at a time.</i>
-</div>
